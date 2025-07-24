@@ -10,3 +10,5 @@
 - 👯 I’m looking to collaborate on **Open source projects**
 
 - 💬 Ask me about **JavaScript,React.js, Web Development, Mobile App Development, etc...**
+
+![Ari's GitHub Stats](https://github-readme-stats.vercel.app/api?username=phantomAA92&show_icons=true&theme=radical)
