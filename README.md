@@ -14,5 +14,6 @@
 
 ## Obligatory Stats
 
-![phantomAA92's GitHub Stats](https://github-readme-stats.vercel.app/api?username=phantomAA92&show_icons=true&theme=radical)
-![phantomAA92's Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=phantomAA92&show_icons=true&theme=onedark&langs_count=4&layout=compact)
+![PhantomAA92's Streak Stats](https://streak-stats.demolab.com/?user=phantomAA92&theme=onedark)
+![PhantomAA92's GitHub Stats](https://github-readme-stats.vercel.app/api?username=phantomAA92&show_icons=true&theme=radical)
+![PhantomAA92's Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=phantomAA92&show_icons=true&theme=onedark&langs_count=4&layout=compact)
