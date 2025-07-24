@@ -2,7 +2,7 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=600&random=false&width=490&height=49&lines=Welcome+to+my+Github+Profile!;Working+on+Open-Source+Contributions;Web+Development+%7C+Software+Engineering+;AI+Tools+%7C+Crypto+%7C+Gaming+%7C+Coding;Machine+learning+Enthusiast" alt="Typing SVG" /></a>
 </p>
 
-# Hi, I'm PhantomAA92.
+# Hi there 👋, I'm PhantomAA92.
 
 - 🔭 I’m currently working on **Advancing my Skills with Languages and tools**
 
@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **JavaScript,React.js, Web Development, Mobile App Development, etc...**
 
-### ⚡ Fun Fact
+## ⚡ Fun Fact
 
 I enjoy exploring new technologies and frameworks, and I'm always eager to take on new challenges!
 
