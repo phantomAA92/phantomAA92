@@ -12,10 +12,6 @@
 
 - 💬 Ask me about **JavaScript,React.js, Web Development, Mobile App Development, etc...**
 
-# My Working.
-
-<img align="right" alt="Coding" width="400" style="margin-bottom: 10px;" src="https://github.com/sivamsinghsh/Portfolio/blob/main/assets/img/professional%20skills.gif?raw=true&rid=giphy.gif&ct=g">
-
 ## Obligatory Stats
 
 ![phantomAA92's GitHub Stats](https://github-readme-stats.vercel.app/api?username=phantomAA92&show_icons=true&theme=radical)
