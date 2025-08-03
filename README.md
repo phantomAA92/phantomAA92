@@ -20,4 +20,6 @@ I enjoy exploring new technologies and frameworks, and I'm always eager to take 
 ## 🌟Obligatory Stats
 
 ![PhantomAA92's GitHub Stats](https://github-readme-stats.vercel.app/api?username=phantomAA92&show_icons=true&theme=radical)
-![PhantomAA92's Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=phantomAA92&show_icons=true&theme=onedark&langs_count=4&layout=compact&cache_seconds=86400)
+![PhantomAA92's Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=phantomAA92&show_icons=true&theme=onedark&langs_count=4&layout=compact)
+![PhantomAA92's PieChart Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=phantomAA92&layout=pie)
+
