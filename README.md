@@ -21,5 +21,5 @@ I enjoy exploring new technologies and frameworks, and I'm always eager to take 
 
 ![PhantomAA92's GitHub Stats](https://github-readme-stats.vercel.app/api?username=phantomAA92&show_icons=true)
 ![PhantomAA92's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=phantomAA92)
-![PhantomAA92's PieChart Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=phantomAA92&layout=pie)
+//![PhantomAA92's PieChart Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=phantomAA92&layout=pie)
 
