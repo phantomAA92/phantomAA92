@@ -3,7 +3,7 @@
   </a>
 </p>
 
-# Hello everyone 👋, I'm a Full Stack Developer.
+# Hello everyone 👋, I'm a Senior Full Stack Developer.
 
 - 🔭 I’m currently working on **Advancing my Skills with Languages and tools**
 
@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **Open source projects**
 
-- 💬 Ask me about **JavaScript,React.js, Web Development, Mobile App Development, etc...**
+- 💬 Ask me about **JavaScript, React.js, Web Development, Mobile App Development, etc...**
 
 ## ⚡ Fun Fact
 
