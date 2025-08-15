@@ -13,10 +13,6 @@
 
 - 💬 Ask me about **JavaScript, React.js, Web Development, Mobile App Development, etc...**
 
-## ⚡ Fun Fact
-
-I enjoy exploring new technologies and frameworks, and I'm always eager to take on new challenges!
-
 ## 🌟Obligatory Stats
 
 ![PhantomAA92's GitHub Stats](https://github-readme-stats.vercel.app/api?username=phantomAA92&show_icons=true)
