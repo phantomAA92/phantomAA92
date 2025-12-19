@@ -15,5 +15,5 @@
 
 ## 🌟Obligatory Stats
 
-![PhantomAA92's GitHub Stats](https://github-readme-stats.vercel.app/api?username=phantomAA92&show_icons=true)
-![PhantomAA92's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=phantomAA92)
+![PhantomAA92's GitHub Stats](https://github-readme-stats.vercel.app/api?username=phantomAA92&show_icons=true&cache_seconds=1800)
+![PhantomAA92's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=phantomAA92&cache_seconds=1800)
