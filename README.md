@@ -37,8 +37,9 @@
   <img src="./assets/github-charts/top-repos-pie.png" alt="Top Repos Pie" />
   <br/>
   <!-- fallback: keep existing GitHub Readme Stats cards for quick glance -->
+  <!-- GitHub Readme Stats temporarily disabled due to service outage
   <img src="https://github-readme-stats.vercel.app/api?username=phantomAA92&show_icons=true" alt="PhantomAA92's GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=phantomAA92" alt="PhantomAA92's Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=phantomAA92" alt="PhantomAA92's Top Languages"/>-->
 </p>
 
 ## 🏆 Top Star-Earning Project
