@@ -1,0 +1,37 @@
+
+name: Generate GitHub Charts
+on:
+  schedule:
+    - cron: '0 2 * * 1'
+  push:
+    branches:
+      - generate-charts
+      - main
+  workflow_dispatch: {}
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with: { fetch-depth: 0 }
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with: { python-version: '3.11' }
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+      - name: Generate charts
+        env:
+          GH_TOKEN: ${{ secrets.GH_PAT }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_OWNER: phantomAA92
+        run: python scripts/generate_charts.py
+      - name: Commit and push generated charts
+        env: { GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} }
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add assets/github-charts || true
+          if git diff --staged --quiet; then echo "No changes"; else git commit -m "chore(charts): update generated repo/language charts"; git push origin HEAD; fi
