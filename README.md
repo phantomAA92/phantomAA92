@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=600&random=false&width=490&height=49&lines=Welcome+to+my+Github+Profile!;Working+on+Open-Source+Contributions;Web+Development+%7C+Software+Engineering+;AI+Tools+%7C+Crypto+%7C+Gaming+%7C+Coding;Machine+learning+Enthusiast" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=600&random=false&width=490&height=49&lines=Welcome+to+my+Github+Profile!;Working+on+Open-S[...]"/></a>
 </p>
 
 # Hello everyone 👋, I'm a Senior Full Stack Developer.
@@ -30,11 +30,15 @@
 </p>
 
 ## 📊 Project & Repo Stats
+
 <p>
+  <!-- Generated charts: languages donut & top repos pie -->
+  <img src="./assets/github-charts/languages-donut.png" alt="Languages Donut" />
+  <img src="./assets/github-charts/top-repos-pie.png" alt="Top Repos Pie" />
+  <br/>
+  <!-- fallback: keep existing GitHub Readme Stats cards for quick glance -->
   <img src="https://github-readme-stats.vercel.app/api?username=phantomAA92&show_icons=true" alt="PhantomAA92's GitHub Stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=phantomAA92" alt="PhantomAA92's Top Languages"/>
-  <img src="https://img.shields.io/github/issues/phantomAA92/phantomAA92?color=blue&logo=github&style=for-the-badge" alt="Total Issues"/>
-  <img src="https://img.shields.io/github/pulls/phantomAA92/phantomAA92?color=purple&logo=github&style=for-the-badge" alt="Current PRs"/>
 </p>
 
 ## 🏆 Top Star-Earning Project
